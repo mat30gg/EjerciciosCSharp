@@ -1,0 +1,15 @@
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Pruebas\bin\Debug\net5.0\Pruebas.exe
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Pruebas\bin\Debug\net5.0\Pruebas.deps.json
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Pruebas\bin\Debug\net5.0\Pruebas.runtimeconfig.json
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Pruebas\bin\Debug\net5.0\Pruebas.runtimeconfig.dev.json
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Pruebas\bin\Debug\net5.0\Pruebas.dll
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Pruebas\bin\Debug\net5.0\ref\Pruebas.dll
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Pruebas\bin\Debug\net5.0\Pruebas.pdb
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Pruebas\obj\Debug\net5.0\Pruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Pruebas\obj\Debug\net5.0\Pruebas.AssemblyInfoInputs.cache
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Pruebas\obj\Debug\net5.0\Pruebas.AssemblyInfo.cs
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Pruebas\obj\Debug\net5.0\Pruebas.csproj.CoreCompileInputs.cache
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Pruebas\obj\Debug\net5.0\Pruebas.dll
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Pruebas\obj\Debug\net5.0\ref\Pruebas.dll
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Pruebas\obj\Debug\net5.0\Pruebas.pdb
+C:\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Pruebas\obj\Debug\net5.0\Pruebas.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasHilos\bin\Debug\net5.0\PruebasHilos.exe
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasHilos\bin\Debug\net5.0\PruebasHilos.deps.json
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasHilos\bin\Debug\net5.0\PruebasHilos.runtimeconfig.json
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasHilos\bin\Debug\net5.0\PruebasHilos.runtimeconfig.dev.json
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasHilos\bin\Debug\net5.0\PruebasHilos.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasHilos\bin\Debug\net5.0\ref\PruebasHilos.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasHilos\bin\Debug\net5.0\PruebasHilos.pdb
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasHilos\obj\Debug\net5.0\PruebasHilos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasHilos\obj\Debug\net5.0\PruebasHilos.AssemblyInfoInputs.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasHilos\obj\Debug\net5.0\PruebasHilos.AssemblyInfo.cs
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasHilos\obj\Debug\net5.0\PruebasHilos.csproj.CoreCompileInputs.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasHilos\obj\Debug\net5.0\PruebasHilos.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasHilos\obj\Debug\net5.0\ref\PruebasHilos.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasHilos\obj\Debug\net5.0\PruebasHilos.pdb
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasHilos\obj\Debug\net5.0\PruebasHilos.genruntimeconfig.cache

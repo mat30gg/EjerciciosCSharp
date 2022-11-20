@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejer_Eventos01_AvisameSiCambia/1.0.0": {
+        "runtime": {
+          "Ejer_Eventos01_AvisameSiCambia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejer_Eventos01_AvisameSiCambia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

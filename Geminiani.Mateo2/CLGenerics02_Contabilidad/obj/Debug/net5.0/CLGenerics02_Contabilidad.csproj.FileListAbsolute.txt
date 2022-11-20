@@ -1,0 +1,12 @@
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLGenerics02_Contabilidad\bin\Debug\net5.0\CLGenerics02_Contabilidad.deps.json
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLGenerics02_Contabilidad\bin\Debug\net5.0\CLGenerics02_Contabilidad.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLGenerics02_Contabilidad\bin\Debug\net5.0\ref\CLGenerics02_Contabilidad.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLGenerics02_Contabilidad\bin\Debug\net5.0\CLGenerics02_Contabilidad.pdb
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLGenerics02_Contabilidad\obj\Debug\net5.0\CLGenerics02_Contabilidad.csproj.AssemblyReference.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLGenerics02_Contabilidad\obj\Debug\net5.0\CLGenerics02_Contabilidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLGenerics02_Contabilidad\obj\Debug\net5.0\CLGenerics02_Contabilidad.AssemblyInfoInputs.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLGenerics02_Contabilidad\obj\Debug\net5.0\CLGenerics02_Contabilidad.AssemblyInfo.cs
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLGenerics02_Contabilidad\obj\Debug\net5.0\CLGenerics02_Contabilidad.csproj.CoreCompileInputs.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLGenerics02_Contabilidad\obj\Debug\net5.0\CLGenerics02_Contabilidad.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLGenerics02_Contabilidad\obj\Debug\net5.0\ref\CLGenerics02_Contabilidad.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLGenerics02_Contabilidad\obj\Debug\net5.0\CLGenerics02_Contabilidad.pdb

@@ -1,0 +1,16 @@
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebaMetExtension\bin\Debug\net5.0\PruebaMetExtension.exe
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebaMetExtension\bin\Debug\net5.0\PruebaMetExtension.deps.json
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebaMetExtension\bin\Debug\net5.0\PruebaMetExtension.runtimeconfig.json
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebaMetExtension\bin\Debug\net5.0\PruebaMetExtension.runtimeconfig.dev.json
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebaMetExtension\bin\Debug\net5.0\PruebaMetExtension.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebaMetExtension\bin\Debug\net5.0\ref\PruebaMetExtension.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebaMetExtension\bin\Debug\net5.0\PruebaMetExtension.pdb
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebaMetExtension\obj\Debug\net5.0\PruebaMetExtension.csproj.AssemblyReference.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebaMetExtension\obj\Debug\net5.0\PruebaMetExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebaMetExtension\obj\Debug\net5.0\PruebaMetExtension.AssemblyInfoInputs.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebaMetExtension\obj\Debug\net5.0\PruebaMetExtension.AssemblyInfo.cs
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebaMetExtension\obj\Debug\net5.0\PruebaMetExtension.csproj.CoreCompileInputs.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebaMetExtension\obj\Debug\net5.0\PruebaMetExtension.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebaMetExtension\obj\Debug\net5.0\ref\PruebaMetExtension.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebaMetExtension\obj\Debug\net5.0\PruebaMetExtension.pdb
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebaMetExtension\obj\Debug\net5.0\PruebaMetExtension.genruntimeconfig.cache

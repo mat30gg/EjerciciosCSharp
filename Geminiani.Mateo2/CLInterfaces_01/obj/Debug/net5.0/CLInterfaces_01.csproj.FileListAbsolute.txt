@@ -1,0 +1,12 @@
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLInterfaces_01\bin\Debug\net5.0\CLInterfaces_01.deps.json
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLInterfaces_01\bin\Debug\net5.0\CLInterfaces_01.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLInterfaces_01\bin\Debug\net5.0\ref\CLInterfaces_01.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLInterfaces_01\bin\Debug\net5.0\CLInterfaces_01.pdb
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLInterfaces_01\obj\Debug\net5.0\CLInterfaces_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLInterfaces_01\obj\Debug\net5.0\CLInterfaces_01.AssemblyInfoInputs.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLInterfaces_01\obj\Debug\net5.0\CLInterfaces_01.AssemblyInfo.cs
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLInterfaces_01\obj\Debug\net5.0\CLInterfaces_01.csproj.CoreCompileInputs.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLInterfaces_01\obj\Debug\net5.0\CLInterfaces_01.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLInterfaces_01\obj\Debug\net5.0\ref\CLInterfaces_01.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLInterfaces_01\obj\Debug\net5.0\CLInterfaces_01.pdb
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\CLInterfaces_01\obj\Debug\net5.0\CLInterfaces_01.csproj.AssemblyReference.cache

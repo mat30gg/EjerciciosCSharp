@@ -1,0 +1,12 @@
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Genericos01_Torneo\bin\Debug\net5.0\Ejer_Genericos01_Torneo.deps.json
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Genericos01_Torneo\bin\Debug\net5.0\Ejer_Genericos01_Torneo.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Genericos01_Torneo\bin\Debug\net5.0\ref\Ejer_Genericos01_Torneo.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Genericos01_Torneo\bin\Debug\net5.0\Ejer_Genericos01_Torneo.pdb
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Genericos01_Torneo\obj\Debug\net5.0\Ejer_Genericos01_Torneo.csproj.AssemblyReference.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Genericos01_Torneo\obj\Debug\net5.0\Ejer_Genericos01_Torneo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Genericos01_Torneo\obj\Debug\net5.0\Ejer_Genericos01_Torneo.AssemblyInfoInputs.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Genericos01_Torneo\obj\Debug\net5.0\Ejer_Genericos01_Torneo.AssemblyInfo.cs
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Genericos01_Torneo\obj\Debug\net5.0\Ejer_Genericos01_Torneo.csproj.CoreCompileInputs.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Genericos01_Torneo\obj\Debug\net5.0\Ejer_Genericos01_Torneo.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Genericos01_Torneo\obj\Debug\net5.0\ref\Ejer_Genericos01_Torneo.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Genericos01_Torneo\obj\Debug\net5.0\Ejer_Genericos01_Torneo.pdb

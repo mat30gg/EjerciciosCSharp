@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PruebaEventos01/1.0.0": {
+        "dependencies": {
+          "PruebasEventos": "1.0.0"
+        },
+        "runtime": {
+          "PruebaEventos01.dll": {}
+        }
+      },
+      "PruebasEventos/1.0.0": {
+        "runtime": {
+          "PruebasEventos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PruebaEventos01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PruebasEventos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

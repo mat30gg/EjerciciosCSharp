@@ -1,0 +1,16 @@
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasEventos\bin\Debug\net5.0\PruebasEventos.exe
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasEventos\bin\Debug\net5.0\PruebasEventos.deps.json
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasEventos\bin\Debug\net5.0\PruebasEventos.runtimeconfig.json
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasEventos\bin\Debug\net5.0\PruebasEventos.runtimeconfig.dev.json
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasEventos\bin\Debug\net5.0\PruebasEventos.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasEventos\bin\Debug\net5.0\ref\PruebasEventos.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasEventos\bin\Debug\net5.0\PruebasEventos.pdb
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasEventos\obj\Debug\net5.0\PruebasEventos.csproj.AssemblyReference.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasEventos\obj\Debug\net5.0\PruebasEventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasEventos\obj\Debug\net5.0\PruebasEventos.AssemblyInfoInputs.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasEventos\obj\Debug\net5.0\PruebasEventos.AssemblyInfo.cs
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasEventos\obj\Debug\net5.0\PruebasEventos.csproj.CoreCompileInputs.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasEventos\obj\Debug\net5.0\PruebasEventos.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasEventos\obj\Debug\net5.0\ref\PruebasEventos.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasEventos\obj\Debug\net5.0\PruebasEventos.pdb
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\PruebasEventos\obj\Debug\net5.0\PruebasEventos.genruntimeconfig.cache

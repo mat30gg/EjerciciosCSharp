@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "CLGenericos01_Torneo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/CLGenericos01_Torneo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CLGenericos01_Torneo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CLGenericos01_Torneo/1.0.0": {
+      "type": "project",
+      "path": "../Ejer_Genericos01_Torneo/CLGenericos01_Torneo.csproj",
+      "msbuildProject": "../Ejer_Genericos01_Torneo/CLGenericos01_Torneo.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "CLGenericos01_Torneo >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mateo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Ejercicios\\Geminiani.Mateo2\\ConsolaEjercicioGenerics\\ConsolaEjercicioGenerics.csproj",
+      "projectName": "ConsolaEjercicioGenerics",
+      "projectPath": "C:\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Ejercicios\\Geminiani.Mateo2\\ConsolaEjercicioGenerics\\ConsolaEjercicioGenerics.csproj",
+      "packagesPath": "C:\\Users\\mateo\\.nuget\\packages\\",
+      "outputPath": "C:\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Ejercicios\\Geminiani.Mateo2\\ConsolaEjercicioGenerics\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Ejercicios\\Geminiani.Mateo2\\Ejer_Genericos01_Torneo\\CLGenericos01_Torneo.csproj": {
+              "projectPath": "C:\\Programacion\\UTN\\2° Cuatrimestre\\Laboratorio\\Ejercicios\\Geminiani.Mateo2\\Ejer_Genericos01_Torneo\\CLGenericos01_Torneo.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

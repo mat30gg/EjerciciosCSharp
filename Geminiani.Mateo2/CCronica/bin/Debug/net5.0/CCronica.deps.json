@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CCronica/1.0.0": {
+        "dependencies": {
+          "CLCronica": "1.0.0"
+        },
+        "runtime": {
+          "CCronica.dll": {}
+        }
+      },
+      "CLCronica/1.0.0": {
+        "runtime": {
+          "CLCronica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CCronica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CLCronica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

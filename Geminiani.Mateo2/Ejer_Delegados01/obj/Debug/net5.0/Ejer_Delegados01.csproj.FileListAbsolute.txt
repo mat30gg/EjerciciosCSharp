@@ -1,0 +1,16 @@
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Delegados01\bin\Debug\net5.0\Ejer_Delegados01.exe
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Delegados01\bin\Debug\net5.0\Ejer_Delegados01.deps.json
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Delegados01\bin\Debug\net5.0\Ejer_Delegados01.runtimeconfig.json
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Delegados01\bin\Debug\net5.0\Ejer_Delegados01.runtimeconfig.dev.json
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Delegados01\bin\Debug\net5.0\Ejer_Delegados01.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Delegados01\bin\Debug\net5.0\ref\Ejer_Delegados01.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Delegados01\bin\Debug\net5.0\Ejer_Delegados01.pdb
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Delegados01\obj\Debug\net5.0\Ejer_Delegados01.csproj.AssemblyReference.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Delegados01\obj\Debug\net5.0\Ejer_Delegados01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Delegados01\obj\Debug\net5.0\Ejer_Delegados01.AssemblyInfoInputs.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Delegados01\obj\Debug\net5.0\Ejer_Delegados01.AssemblyInfo.cs
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Delegados01\obj\Debug\net5.0\Ejer_Delegados01.csproj.CoreCompileInputs.cache
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Delegados01\obj\Debug\net5.0\Ejer_Delegados01.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Delegados01\obj\Debug\net5.0\ref\Ejer_Delegados01.dll
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Delegados01\obj\Debug\net5.0\Ejer_Delegados01.pdb
+C:\Users\mateo\Desktop\Programacion\UTN\2° Cuatrimestre\Laboratorio\Ejercicios\Geminiani.Mateo2\Ejer_Delegados01\obj\Debug\net5.0\Ejer_Delegados01.genruntimeconfig.cache

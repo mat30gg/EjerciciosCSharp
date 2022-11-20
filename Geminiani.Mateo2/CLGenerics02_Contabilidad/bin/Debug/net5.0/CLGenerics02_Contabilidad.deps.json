@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CLGenerics02_Contabilidad/1.0.0": {
+        "runtime": {
+          "CLGenerics02_Contabilidad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CLGenerics02_Contabilidad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
